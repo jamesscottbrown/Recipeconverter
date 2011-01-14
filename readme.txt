@@ -1,0 +1,1 @@
+Recipeconverter reads a lightly-formatted text-file, and outputs LaTeX code that will present it in a graphical layout conceptually similar to that used by Cooking for Engineers (http://www.cookingforengineers.com/), but using braces rather than boxes.
